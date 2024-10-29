@@ -1,0 +1,18 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "http://jupinheiru.github.io/thejeshgn-reader-badge.json",
+    "recipient":
+    {
+        "type": "email",
+        "hashed": true,
+        "identity": "sha256$2d1634b4fd08d558ec2f655ba3bd984be4679692240da92e1ade6b00332595a4"
+    },
+    "badge": "http://jupinheiru.github.io/reader-badge.json",
+    "verification":
+    {
+        "type": "hosted"
+    },
+    "issuedOn": "2022-06-17T23:59:59Z",
+    "expires": "2030-06-30T23:59:59Z"
+}

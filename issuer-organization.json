@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "http://jupinheiru.github.io/issuer-organization.json",
+    "type": "Issuer",
+    "name": "CCR S.A",
+    "url": "https://www.grupoccr.com.br/"
+}
